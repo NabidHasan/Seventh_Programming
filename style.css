@@ -5,3 +5,11 @@ p{
 h1{
     color: cornflowerblue;
 }
+
+.images{
+    
+    float: left;
+    height:300px;
+    width: 30%;
+    padding: 20px;
+}
